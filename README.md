@@ -1,5 +1,5 @@
-# Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
+# Realtime-number-plate-Detection
+<p>Hello. This project is a basic idea for automatic number plate detection system using easyocr and python. It is done with Jupyter notebook. If u do not know, how to run that or bring that, you need to go to your cmd and install it. then just use jupyter notebook in the cmd. it will open in a browser. then u can open the file project.ipynb. all the needed commands line are given there. I am again telling u, that may not be the best but its a basic project to learn and understand ANPRS. Hope you like it. 
 <img src="https://i.imgur.com/H3tUyKM.png">
 
 ## Steps
