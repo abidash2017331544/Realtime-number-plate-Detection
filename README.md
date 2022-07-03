@@ -1,6 +1,6 @@
 # Tensorflow Object Detection Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and create your own custom object detection model using the Tensorflow Object Detection API.
-<img src="[https://github.com/abidash2017331544/Realtime-number-plate-Detection/blob/main/Untitled-2.jpg]">
+<img src="https://github.com/abidash2017331544/Realtime-number-plate-Detection/blob/main/Untitled-2.jpg">
 
 ## Steps
 <br />
