@@ -1,6 +1,6 @@
 # Realtime-number-plate-Detection
 <p>Hello. This project is a basic idea for automatic number plate detection system using easyocr and python. It is done with Jupyter notebook. If u do not know, how to run that or bring that, you need to go to your cmd and install it. then just use jupyter notebook in the cmd. it will open in a browser. then u can open the file project.ipynb. all the needed commands line are given there. I am again telling u, that may not be the best but its a basic project to learn and understand ANPRS. Hope you like it. 
-<img src="https://i.imgur.com/H3tUyKM.png">
+<img src="[https://drive.google.com/file/d/1Qsyn1pm9gby7v2J8e2MSXnMX_jHBLuRA/view.jpg">
 
 ## Steps
 <br />
