@@ -27,9 +27,9 @@ jupyter notebook
 <b>Step 5.</b> in the jupyter Notebook  - ensure you change the kernel to the virtual environment as shown below
 <img src="[https://github.com/abidash2017331544/Realtime-number-plate-Detection/blob/main/Screenshot%202022-07-03%20233459.png]"> 
 <br/>
-<b>Step 6. Begin training process by opening <a href="https://github.com/nicknochnack/TFODCourse/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
+<b>Step 6. </b> Begin training process by opening <a href="https://github.com/nicknochnack/TFODCourse/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
-<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.
+<b>Step 7.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.
 <br /> <br/>
-<b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook.
+<b>Step 8.</b> Once you get to step 6. Train the model, inside of the notebook.
 <br />
