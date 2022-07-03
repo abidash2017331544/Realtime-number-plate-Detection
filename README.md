@@ -4,7 +4,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: [https://github.com/abidash2017331544/Realtime-number-plate-Detection.git]
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
